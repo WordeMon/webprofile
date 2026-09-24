@@ -1,0 +1,40 @@
+.project1 {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+.project2 {
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+li {
+    list-style-type: none;
+    float: left;
+    border-right-color: #bbb;
+    border-right-width: 1px;
+    border-right-style: solid;
+}
+li a {
+    display: block;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: crimson;
+}
+li a:hover {
+    background-color: #111;
+}
+.ul {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.hr {
+    border-bottom: 4px solid black;
+    padding-bottom: 50px;
+}
